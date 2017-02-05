@@ -1,0 +1,6 @@
+*.asm
+*.tst
+*.out
+*.cmp
+*.vm
+*.hack
